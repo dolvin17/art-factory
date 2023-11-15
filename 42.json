@@ -1,0 +1,15 @@
+{
+	"name": "gato1",
+	"image": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-curled-up-sleeping-1593184773.jpg",
+	"attributes": [
+	  {
+		"trait_type": "Belleza",
+		"value": "9000"
+	  }
+	],
+	"mintNumber": 1,
+	"collectionLink": "https://www.gatos.com",
+	"collectionName": "Gatitos Lindos",
+	"collectionDescription": "gatitos lindos",
+	"sourceLink": "https://www.gatos.com"
+  }
